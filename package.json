@@ -1,0 +1,20 @@
+{
+  "name": "whiskey-graphql",
+  "version": "1.0.0",
+  "description": "This is a whiskey graphql server. It gives us a list of whiskies and other bunch of api endpoints.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mridulsikka141090/whiskey-graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mridulsikka141090/whiskey-graphql/issues"
+  },
+  "homepage": "https://github.com/mridulsikka141090/whiskey-graphql#readme"
+}
